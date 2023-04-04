@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, Peking University / 北京大学, Sep 2012 ~ Jul 2016
+* Research Student, University of Tokyo / 東京大学情報理工学系研究科, Oct 2016 ~ Sep 2017
+* M.S. in Cryptography, Kyoto University / 京都大学情報学研究科, Apr 2018 ~ Mar 2020
+* Ph.D in Cryptogrpahy, Kyoto University / 京都大学情報学研究科, Apr 2020 ~ Mar 2023
 
 Work experience
 ======

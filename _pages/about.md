@@ -17,13 +17,12 @@ Education
 * Research Student, University of Tokyo / 東京大学情報理工学系研究科, Oct 2016 ~ Sep 2017
 * M.S. in Cryptography, Kyoto University / 京都大学情報学研究科, Apr 2018 ~ Mar 2020
 * Ph.D in Cryptogrpahy, Kyoto University / 京都大学情報学研究科, Apr 2020 ~ Mar 2023
+* Supervisor / 指導教員 : Mehdi Tibouchi, Masayuki Abe
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, Osaka University / 特任助教, 大阪大学情報学研究科
+
 
 * Fall 2015: Research Assistant
   * Github University

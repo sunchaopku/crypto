@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chao Sun"
+title: "Chao Sun / 孙超 / 孫超"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

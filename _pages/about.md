@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* (Specially Appointed) Assistant Professor, Osaka University / 特任助教, 大阪大学情報学研究科
+* (Specially Appointed) Assistant Professor, Osaka University / 特任助教, 大阪大学情報学研究科, Apr 2023 ~ 
 
 
 * Fall 2015: Research Assistant

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a (specially appointed) assistant professor at Osaka Univeristy. I got my Ph.D in cryptography at Kyoto university in Japan.
+I am a (specially appointed) assistant professor at Osaka Univeristy. I got my Ph.D in cryptography at Kyoto university in Japan, supervised by Mehdi Tibouchi and Masayuki Abe. Before coming to Japan, I got my bachelor's degree at Peking University.
 
 
 Education

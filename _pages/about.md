@@ -10,6 +10,7 @@ redirect_from:
 
 I am a (specially appointed) assistant professor at Osaka Univeristy. I got my Ph.D in cryptography at Kyoto university in Japan, supervised by Mehdi Tibouchi and Masayuki Abe. Before coming to Japan, I got my bachelor's degree at Peking University.
 
+Research Interest: Mathematical Aspects of cryptography, Lattice Cryptography, Cryptanalysis.
 
 Education
 ======
@@ -40,3 +41,10 @@ Publications and Talks
 * Chao Sun, Mehdi Tibouchi, Masayuki Abe. ``Towards Improving Lattice Attacks on (EC)DSA", 2021 Symposium on Cryptography and Information Security.
 * Chao Sun, Mehdi Tibouchi, Masayuki Abe. ``On the hardness of LWE with Non-Uniform Binary-Error", 2020 Symposium on Cryptography and Information Security.
 * Chao Sun, Mehdi Tibouchi, Masayuki Abe. ``Sample-Time Trade-off for the Arora-Ge Attack on Binary-Error LWE", 2019 Symposium on Cryptography and Information Security.
+
+Techniques, SKills and Others
+======
+* Languages:  Chinese (native), English (fluent), Japanese (conversational)
+* Hobby: Soccer, Cycling, Hiking
+
+

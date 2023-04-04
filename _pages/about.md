@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a (specially appointed) assistant professor at Osaka Univeristy. 
+I am a (specially appointed) assistant professor at Osaka Univeristy. I got my Ph.D in cryptography at Kyoto university in Japan.
 
 
 Education

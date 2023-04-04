@@ -10,6 +10,26 @@ redirect_from:
 
 I am a (specially appointed) assistant professor at Osaka Univeristy. 
 
+
+Education
+======
+* B.S. in Computer Science and Technology, Peking University / 北京大学, Sep 2012 ~ Jul 2016
+* Research Student, University of Tokyo / 東京大学情報理工学系研究科, Oct 2016 ~ Sep 2017
+* M.S. in Cryptography, Kyoto University / 京都大学情報学研究科, Apr 2018 ~ Mar 2020
+* Ph.D in Cryptogrpahy, Kyoto University / 京都大学情報学研究科, Apr 2020 ~ Mar 2023
+
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

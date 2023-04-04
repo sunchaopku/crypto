@@ -24,7 +24,7 @@ Work experience
 * (Specially Appointed) Assistant Professor, Osaka University / 特任助教, 大阪大学情報学研究科, Apr 2023 ~ 
 
 
-* Research Internship in lattice cryptography, NTT Social Informatics Laboratories / 
+* Research Internship in Lattice Cryptography, NTT Social Informatics Laboratories / Feb, Oct 2021; May 2022
 
 Academic service
 ======

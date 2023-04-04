@@ -26,7 +26,7 @@
 
 
   @include breakpoint($x-large) {
-    width: 1000px;
+    width: 400px;
     padding-right: 0;
   }
 
@@ -73,7 +73,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 406px;
+  width: 386px;
   // set width only, for non-square avatars
   // height: 36px;
 

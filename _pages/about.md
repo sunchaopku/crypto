@@ -11,7 +11,7 @@ I am a (specially appointed) assistant professor at Osaka Univeristy. I got my P
 
 Research Interest
 ======
- Mathematical Aspects of Cryptography, Lattice Cryptography, Cryptanalysis.
+ Mathematical Aspects of Cryptography / 暗号理論の数学側面 , Lattice Cryptography / 格子暗号, Cryptanalysis / 暗号解読.
  
 Email Address
 ======
@@ -30,7 +30,7 @@ Work Experience
 * (Specially Appointed) Assistant Professor, Osaka University / 特任助教, 大阪大学情報学研究科, Apr 2023 ~ 
 
 
-* Research Internship in Lattice Cryptography, NTT Social Informatics Laboratories / Feb, Oct 2021; May 2022
+* Research Internship in Lattice Cryptography, NTT Social Informatics Laboratories.  Feb, Oct 2021; May 2022
 
 Academic Service
 ======

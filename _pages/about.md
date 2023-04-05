@@ -19,7 +19,7 @@ Email Address
 
 Education
 ======
-* Ph.D in Cryptogrpahy, Kyoto University / 京都大学情報学研究科, Apr 2020 ~ Mar 2023 (Supervisor / 指導教員 : Mehdi Tibouchi, Masayuki Abe)
+* Ph.D in Cryptography, Kyoto University / 京都大学情報学研究科, Apr 2020 ~ Mar 2023 (Supervisor / 指導教員 : Mehdi Tibouchi, Masayuki Abe)
 * M.S. in Cryptography, Kyoto University / 京都大学情報学研究科, Apr 2018 ~ Mar 2020 (Supervisor / 指導教員 : Mehdi Tibouchi, Masayuki Abe)
 * Research Student, University of Tokyo / 東京大学情報理工学系研究科, Oct 2016 ~ Sep 2017
 * B.S. in Computer Science and Technology, Peking University / 北京大学, Sep 2012 ~ Jul 2016

@@ -15,7 +15,7 @@ Research Interest
  
 Email Address
 ======
- c-sun at ist dot osaka-u dot ac dot jp
+ sunchaopku12345 at gmail dot com
 
 Education
 ======

@@ -34,7 +34,7 @@ Work Experience
 
 Academic Service
 ======
-* Program Committee: LatinCrypt 2023 
+* Program Committee: LatinCrypt 2023, ACNS 2024
 * Reviewer: TCC 2021, Eurocrypt 2022, Eurocrypt 2023, CT-RSA 2023, Crypto 2023, Journal of Cryptology, Discrete Applied Mathematics.
 
 Publications and Talks

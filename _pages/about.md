@@ -39,6 +39,7 @@ Academic Service
 
 Publications and Talks
 ======
+* Guilhem Niot, Thomas Espitau, Chao Sun, Mehdi Tibouhi, "Squirrels: Square Unstructured Integer Euclidean Lattice Signature", Submission to NIST Call for Additional Digital Signature Schemes.
 * Chao Sun, Thomas Espitau, Mehdi Tibouchi,  Masayuki Abe, ``Guessing Bits: Improved Lattice Attacks on (EC)DSA with Nonce Leakage", IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Volume 2022, Issue 1.
 * Chao Sun, Mehdi Tibouchi, Masayuki Abe, ``Revisiting the Hardness of Binary Error LWE", The 27th Australasian Conference on Information Security and Privacy (ACISP 2020).
 * Chao Sun, Thomas Espitau, Mehdi Tibouchi, Masayuki Abe, ``Generating Falcon Trapdoors via Gibbs Sampler", 2023 Symposium on Cryptography and Information Security.

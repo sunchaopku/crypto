@@ -11,7 +11,7 @@ I am a (specially appointed) assistant professor at Osaka Univeristy. I got my P
 
 Research Interest
 ======
- Mathematical Aspects of Cryptography / 暗号理論の数学側面 , Lattice Cryptography / 格子暗号, Cryptanalysis / 暗号解読.
+ Mathematical Aspects of Cryptography , Lattice Cryptography, Cryptanalysis.
  
 Email Address
 ======
@@ -19,15 +19,15 @@ Email Address
 
 Education
 ======
-* Ph.D in Cryptography, Kyoto University / 京都大学情報学研究科, Apr 2020 ~ Mar 2023 (Supervisor / 指導教員 : Mehdi Tibouchi, Masayuki Abe)
-* M.S. in Cryptography, Kyoto University / 京都大学情報学研究科, Apr 2018 ~ Mar 2020 (Supervisor / 指導教員 : Mehdi Tibouchi, Masayuki Abe)
-* Research Student, University of Tokyo / 東京大学情報理工学系研究科, Oct 2016 ~ Sep 2017
-* B.S. in Computer Science and Technology, Peking University / 北京大学, Sep 2012 ~ Jul 2016
+* Ph.D in Cryptography, Kyoto University, Apr 2020 ~ Mar 2023 (Supervisor: Mehdi Tibouchi, Masayuki Abe)
+* M.S. in Cryptography, Kyoto University, Apr 2018 ~ Mar 2020 (Supervisor: Mehdi Tibouchi, Masayuki Abe)
+* Research Student, University of Tokyo, Oct 2016 ~ Sep 2017
+* B.S. in Computer Science and Technology, Peking University, Sep 2012 ~ Jul 2016
 
 
 Work Experience
 ======
-* (Specially Appointed) Assistant Professor, Osaka University / 特任助教, 大阪大学情報学研究科, Apr 2023 ~ 
+* (Specially Appointed) Assistant Professor, Osaka University, Apr 2023 ~ 
 
 
 * Research Internship in Lattice Cryptography, NTT Social Informatics Laboratories.  Feb, Oct 2021; May 2022

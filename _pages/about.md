@@ -41,13 +41,13 @@ Publications and Talks
 ======
 * Thomas Espitau, Thi Thu Quyen Nguyen, Chao Sun, Mehdi Tibouchi, Alexandre Wallet, "Antrag: Annular NTRU Trapdoor Generation", Asiacrypt 2023 (to appear).
 * Thomas Espitau, Guilhem Niot, Chao Sun, Mehdi Tibouchi, "Squirrels: Square Unstructured Integer Euclidean Lattice Signature", Round 1 candidate of NIST Additional Call for Post-quantum Digital Signature Schemes.
-* Chao Sun, Thomas Espitau, Mehdi Tibouchi,  Masayuki Abe, ``Guessing Bits: Improved Lattice Attacks on (EC)DSA with Nonce Leakage", IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Volume 2022, Issue 1.
-* Chao Sun, Mehdi Tibouchi, Masayuki Abe, ``Revisiting the Hardness of Binary Error LWE", The 27th Australasian Conference on Information Security and Privacy (ACISP 2020).
-* Chao Sun, Thomas Espitau, Mehdi Tibouchi, Masayuki Abe, ``Generating Falcon Trapdoors via Gibbs Sampler", 2023 Symposium on Cryptography and Information Security.
-* Chao Sun, Thomas Espitau, Mehdi Tibouchi, Masayuki Abe, ``Optimal Lattice Trapdoor for the Klein-GPV and Peikert Sampler", 2022 Symposium on Cryptography and Information Security.
-* Chao Sun, Mehdi Tibouchi, Masayuki Abe. ``Towards Improving Lattice Attacks on (EC)DSA", 2021 Symposium on Cryptography and Information Security.
-* Chao Sun, Mehdi Tibouchi, Masayuki Abe. ``On the hardness of LWE with Non-Uniform Binary-Error", 2020 Symposium on Cryptography and Information Security.
-* Chao Sun, Mehdi Tibouchi, Masayuki Abe. ``Sample-Time Trade-off for the Arora-Ge Attack on Binary-Error LWE", 2019 Symposium on Cryptography and Information Security.
+* Chao Sun, Thomas Espitau, Mehdi Tibouchi,  Masayuki Abe, "Guessing Bits: Improved Lattice Attacks on (EC)DSA with Nonce Leakage", IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Volume 2022, Issue 1.
+* Chao Sun, Mehdi Tibouchi, Masayuki Abe, "Revisiting the Hardness of Binary Error LWE", The 27th Australasian Conference on Information Security and Privacy (ACISP 2020).
+* Chao Sun, Thomas Espitau, Mehdi Tibouchi, Masayuki Abe, "Generating Falcon Trapdoors via Gibbs Sampler", 2023 Symposium on Cryptography and Information Security.
+* Chao Sun, Thomas Espitau, Mehdi Tibouchi, Masayuki Abe, "Optimal Lattice Trapdoor for the Klein-GPV and Peikert Sampler", 2022 Symposium on Cryptography and Information Security.
+* Chao Sun, Mehdi Tibouchi, Masayuki Abe. "Towards Improving Lattice Attacks on (EC)DSA", 2021 Symposium on Cryptography and Information Security.
+* Chao Sun, Mehdi Tibouchi, Masayuki Abe. "On the hardness of LWE with Non-Uniform Binary-Error", 2020 Symposium on Cryptography and Information Security.
+* Chao Sun, Mehdi Tibouchi, Masayuki Abe. "Sample-Time Trade-off for the Arora-Ge Attack on Binary-Error LWE", 2019 Symposium on Cryptography and Information Security.
 
 Techniques, SKills and Others
 ======

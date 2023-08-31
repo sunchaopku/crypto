@@ -11,7 +11,7 @@ I am a (specially appointed) assistant professor at Osaka Univeristy. I got my P
 
 Research Interest
 ======
- Mathematical Aspects of Cryptography , Lattice Cryptography, Cryptanalysis.
+ Mathematical Aspects of Cryptography, Post-quantum Cryptography, Lattice Cryptography, Cryptanalysis.
  
 Email Address
 ======

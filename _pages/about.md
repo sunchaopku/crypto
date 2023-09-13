@@ -39,7 +39,7 @@ Academic Service
 
 Publications and Talks
 ======
-* Thomas Espitau, Thi Thu Quyen Nguyen, Chao Sun, Mehdi Tibouchi, Alexandre Wallet, "Antrag: Annular NTRU Trapdoor Generation", Asiacrypt 2023 (to appear).
+* Thomas Espitau, Thi Thu Quyen Nguyen, Chao Sun, Mehdi Tibouchi, Alexandre Wallet, "Antrag: Annular NTRU Trapdoor Generation", Asiacrypt 2023.
 * Thomas Espitau, Guilhem Niot, Chao Sun, Mehdi Tibouchi, "Squirrels: Square Unstructured Integer Euclidean Lattice Signature", Round 1 candidate of NIST Additional Call for Post-quantum Digital Signature Schemes.
 * Chao Sun, Thomas Espitau, Mehdi Tibouchi,  Masayuki Abe, "Guessing Bits: Improved Lattice Attacks on (EC)DSA with Nonce Leakage", IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Volume 2022, Issue 1.
 * Chao Sun, Mehdi Tibouchi, Masayuki Abe, "Revisiting the Hardness of Binary Error LWE", The 27th Australasian Conference on Information Security and Privacy (ACISP 2020).

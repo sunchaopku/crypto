@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a (specially appointed) assistant professor at Osaka Univeristy. I got my Ph.D in cryptography at Kyoto university in Japan, supervised by Mehdi Tibouchi and Masayuki Abe. Before coming to Japan, I got my bachelor's degree at Peking University.
-
+I am currently an Associate Researcher at Southeast University in Nanjing, China. Prior to this role, I worked shortly as a specially appointed Assistant Professor at Osaka University. I got my Ph.D. in cryptography from Kyoto University, Japan, under the supervision of Mehdi Tibouchi and Masayuki Abe. Before pursuing my studies in Japan, I completed my bachelor's degree at Peking University.
 Research Interest
 ======
  Mathematical Aspects of Cryptography, Post-quantum Cryptography, Lattice Cryptography, Cryptanalysis.
@@ -27,7 +26,9 @@ Education
 
 Work Experience
 ======
-* (Specially Appointed) Assistant Professor, Osaka University, Apr 2023 ~ 
+* Associate Researcher, Southeast University, Mar 2024 ~ present
+
+* (Specially Appointed) Assistant Professor, Osaka University, Apr 2023 ~ Jan 2024
 
 
 * Research Internship in Lattice Cryptography, NTT Social Informatics Laboratories.  Feb, Oct 2021; May 2022
@@ -35,7 +36,7 @@ Work Experience
 Academic Service
 ======
 * Program Committee: Latincrypt 2023, ACNS 2024
-* Reviewer: TCC 2021, Eurocrypt 2022, Eurocrypt 2023, CT-RSA 2023, Crypto 2023, Inscrypt 2023, IEEE S&P 2024, Journal of Cryptology, Discrete Applied Mathematics.
+* (sub)-Reviewer: TCC 2021, Eurocrypt 2022, Eurocrypt 2023, CT-RSA 2023, Crypto 2023, Inscrypt 2023, IEEE S&P 2024, Asiacrypt 2024, PQCrypto 2025, Journal of Cryptology, Discrete Applied Mathematics.
 
 Publications and Talks
 ======

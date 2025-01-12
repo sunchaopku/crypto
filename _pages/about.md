@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am currently an Associate Researcher at Southeast University in Nanjing, China. Prior to this role, I worked shortly as a specially appointed Assistant Professor at Osaka University. I got my Ph.D. in cryptography from Kyoto University, Japan, under the supervision of Mehdi Tibouchi and Masayuki Abe. Before pursuing my studies in Japan, I completed my bachelor's degree at Peking University.
+
+
 Research Interest
 ======
  Mathematical Aspects of Cryptography, Post-quantum Cryptography, Lattice Cryptography, Cryptanalysis.

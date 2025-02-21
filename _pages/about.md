@@ -37,8 +37,8 @@ Work Experience
 
 Academic Service
 ======
-* Program Committee: Latincrypt 2023, ACNS 2024
-* (sub)-Reviewer: TCC 2021, Eurocrypt 2022, Eurocrypt 2023, CT-RSA 2023, Crypto 2023, Inscrypt 2023, IEEE S&P 2024, Asiacrypt 2024, PQCrypto 2025, Journal of Cryptology, Discrete Applied Mathematics.
+* Program Committee: Latincrypt 2023, ACNS 2024, ISC 2025, CANS 2025
+* (sub)-Reviewer: TCC 2021, Eurocrypt 2022, Eurocrypt 2023, CT-RSA 2023, Crypto 2023, Inscrypt 2023, IEEE S&P 2024, Asiacrypt 2024, PQCrypto 2025, Journal of Cryptology, Discrete Applied Mathematics, Theoretical Computer Science.
 
 Publications and Talks
 ======

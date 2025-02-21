@@ -18,23 +18,6 @@ Email Address
 ======
  sunchaopku12345 at gmail dot com
 
-Education
-======
-* Ph.D in Cryptography, Kyoto University, Apr 2020 ~ Mar 2023 (Supervisor: Mehdi Tibouchi, Masayuki Abe)
-* M.S. in Cryptography, Kyoto University, Apr 2018 ~ Mar 2020 (Supervisor: Mehdi Tibouchi, Masayuki Abe)
-* Research Student, University of Tokyo, Oct 2016 ~ Sep 2017
-* B.S. in Computer Science and Technology, Peking University, Sep 2012 ~ Jul 2016
-
-
-Work Experience
-======
-* Associate Researcher, Southeast University, Mar 2024 ~ present
-
-* (Specially Appointed) Assistant Professor, Osaka University, Apr 2023 ~ Jan 2024
-
-
-* Research Internship in Lattice Cryptography, NTT Social Informatics Laboratories.  Feb, Oct 2021; May 2022
-
 Academic Service
 ======
 * Program Committee: Latincrypt 2023, ACNS 2024, ISC 2025, CANS 2025

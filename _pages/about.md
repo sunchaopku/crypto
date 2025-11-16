@@ -20,11 +20,13 @@ Email Address
 
 Academic Service
 ======
-* Program Committee: Latincrypt 2023, ACNS 2024, ISC 2025, CANS 2025
+* Program Committee: Latincrypt 2023, ACNS 2024, ISC 2025, CANS 2025, Inscrypt 2025
 * (sub)-Reviewer: TCC 2021, Eurocrypt 2022, Eurocrypt 2023, CT-RSA 2023, Crypto 2023, Inscrypt 2023, IEEE S&P 2024, Asiacrypt 2024, PQCrypto 2025, Journal of Cryptology, Discrete Applied Mathematics, Theoretical Computer Science.
 
-Publications and Talks
+Research Output
 ======
+* Break LWE Challenge with n = 40, alpha = 0.45, SVP Challenge with dimension 183, Joint Work with Shi Bai, Yuanmi Chen, Yituo He, Zhuo Huang, Juanru Li, Xiangxue Li, Yu Yu.
+* Quan Yuan，Chao Sun，Tsuyoshi Takagi，“Revisiting the Security of Fiat-Shamir Signature Schemes Under Superposition Attacks”, ACISP 2024.
 * Thomas Espitau, Thi Thu Quyen Nguyen, Chao Sun, Mehdi Tibouchi, Alexandre Wallet, "Antrag: Annular NTRU Trapdoor Generation", Asiacrypt 2023.
 * Thomas Espitau, Guilhem Niot, Chao Sun, Mehdi Tibouchi, "Squirrels: Square Unstructured Integer Euclidean Lattice Signature", Round 1 candidate of NIST Additional Call for Post-quantum Digital Signature Schemes.
 * Chao Sun, Thomas Espitau, Mehdi Tibouchi,  Masayuki Abe, "Guessing Bits: Improved Lattice Attacks on (EC)DSA with Nonce Leakage", IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), Volume 2022, Issue 1.

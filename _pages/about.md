@@ -27,7 +27,7 @@ Academic Service
 Research Output
 ======
 * Chao Sun, Thomas Espitau, Junjie Song, Jinguang Han, Mehdi Tibouchi, “Generating Falcon Trapdoors via Gibbs Sampler”, PQCrypto 2026
-* Break LWE Challenge with n = 40, alpha = 0.45, SVP Challenge with dimension 183, Joint Work with Shi Bai, Yuanmi Chen, Yituo He, Zhuo Huang, Juanru Li, Xiangxue Li, Yu Yu.
+* Break LWE Challenge with n = 40, alpha = 0.045, SVP Challenge with dimension 183, Joint Work with Shi Bai, Yuanmi Chen, Yituo He, Zhuo Huang, Juanru Li, Xiangxue Li, Yu Yu.
 * Quan Yuan，Chao Sun，Tsuyoshi Takagi，“Revisiting the Security of Fiat-Shamir Signature Schemes Under Superposition Attacks”, ACISP 2024.
 * Thomas Espitau, Thi Thu Quyen Nguyen, Chao Sun, Mehdi Tibouchi, Alexandre Wallet, "Antrag: Annular NTRU Trapdoor Generation", Asiacrypt 2023.
 * Thomas Espitau, Guilhem Niot, Chao Sun, Mehdi Tibouchi, "Squirrels: Square Unstructured Integer Euclidean Lattice Signature", Round 1 candidate of NIST Additional Call for Post-quantum Digital Signature Schemes.
